@@ -1,0 +1,2 @@
+Name = Rohit Rajput , Age = 21 , Gender = male , City = Ghaziabad , Job Role = Zomato , Salary Expections = 15k - 20k
+Name = Simran Rajput , Age = 23 , Gender = Female , City = Delhi , Job Role = OLA , Salary Expections = 5k  - 8k
